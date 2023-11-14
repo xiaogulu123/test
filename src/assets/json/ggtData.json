@@ -1,0 +1,716 @@
+{
+    "message": null,
+    "state": 200,
+    "data": {
+        "xis": [
+            {
+                "axis": "2023-1",
+                "ayis": "31"
+            },
+            {
+                "axis": "2023-2",
+                "ayis": "28"
+            },
+            {
+                "axis": "2023-3",
+                "ayis": "31"
+            },
+            {
+                "axis": "2023-4",
+                "ayis": "30"
+            },
+            {
+                "axis": "2023-5",
+                "ayis": "31"
+            },
+            {
+                "axis": "2023-6",
+                "ayis": "30"
+            },
+            {
+                "axis": "2023-7",
+                "ayis": "31"
+            },
+            {
+                "axis": "2023-8",
+                "ayis": "31"
+            },
+            {
+                "axis": "2023-9",
+                "ayis": "30"
+            },
+            {
+                "axis": "2023-10",
+                "ayis": "31"
+            },
+            {
+                "axis": "2023-11",
+                "ayis": "30"
+            },
+            {
+                "axis": "2023-12",
+                "ayis": "31"
+            },
+            {
+                "axis": "2024-1",
+                "ayis": "31"
+            },
+            {
+                "axis": "2024-2",
+                "ayis": "29"
+            },
+            {
+                "axis": "2024-3",
+                "ayis": "31"
+            },
+            {
+                "axis": "2024-4",
+                "ayis": "30"
+            },
+            {
+                "axis": "2024-5",
+                "ayis": "31"
+            },
+            {
+                "axis": "2024-6",
+                "ayis": "30"
+            },
+            {
+                "axis": "2024-7",
+                "ayis": "31"
+            },
+            {
+                "axis": "2024-8",
+                "ayis": "31"
+            },
+            {
+                "axis": "2024-9",
+                "ayis": "30"
+            },
+            {
+                "axis": "2024-10",
+                "ayis": "31"
+            },
+            {
+                "axis": "2024-11",
+                "ayis": "30"
+            },
+            {
+                "axis": "2024-12",
+                "ayis": "31"
+            },
+            {
+                "axis": "2025-1",
+                "ayis": "31"
+            },
+            {
+                "axis": "2025-2",
+                "ayis": "28"
+            },
+            {
+                "axis": "2025-3",
+                "ayis": "31"
+            },
+            {
+                "axis": "2025-4",
+                "ayis": "30"
+            },
+            {
+                "axis": "2025-5",
+                "ayis": "31"
+            },
+            {
+                "axis": "2025-6",
+                "ayis": "30"
+            },
+            {
+                "axis": "2025-7",
+                "ayis": "31"
+            },
+            {
+                "axis": "2025-8",
+                "ayis": "31"
+            },
+            {
+                "axis": "2025-9",
+                "ayis": "30"
+            },
+            {
+                "axis": "2025-10",
+                "ayis": "31"
+            },
+            {
+                "axis": "2025-11",
+                "ayis": "30"
+            },
+            {
+                "axis": "2025-12",
+                "ayis": "31"
+            },
+            {
+                "axis": "2026-1",
+                "ayis": "31"
+            },
+            {
+                "axis": "2026-2",
+                "ayis": "28"
+            },
+            {
+                "axis": "2026-3",
+                "ayis": "31"
+            },
+            {
+                "axis": "2026-4",
+                "ayis": "30"
+            },
+            {
+                "axis": "2026-5",
+                "ayis": "31"
+            },
+            {
+                "axis": "2026-6",
+                "ayis": "30"
+            },
+            {
+                "axis": "2026-7",
+                "ayis": "31"
+            },
+            {
+                "axis": "2026-8",
+                "ayis": "31"
+            },
+            {
+                "axis": "2026-9",
+                "ayis": "30"
+            },
+            {
+                "axis": "2026-10",
+                "ayis": "31"
+            },
+            {
+                "axis": "2026-11",
+                "ayis": "30"
+            },
+            {
+                "axis": "2026-12",
+                "ayis": "31"
+            },
+            {
+                "axis": "2027-1",
+                "ayis": "31"
+            },
+            {
+                "axis": "2027-2",
+                "ayis": "28"
+            },
+            {
+                "axis": "2027-3",
+                "ayis": "31"
+            },
+            {
+                "axis": "2027-4",
+                "ayis": "30"
+            },
+            {
+                "axis": "2027-5",
+                "ayis": "31"
+            },
+            {
+                "axis": "2027-6",
+                "ayis": "30"
+            },
+            {
+                "axis": "2027-7",
+                "ayis": "31"
+            },
+            {
+                "axis": "2027-8",
+                "ayis": "31"
+            },
+            {
+                "axis": "2027-9",
+                "ayis": "30"
+            },
+            {
+                "axis": "2027-10",
+                "ayis": "31"
+            },
+            {
+                "axis": "2027-11",
+                "ayis": "30"
+            },
+            {
+                "axis": "2027-12",
+                "ayis": "31"
+            },
+            {
+                "axis": "2028-1",
+                "ayis": "31"
+            },
+            {
+                "axis": "2028-2",
+                "ayis": "29"
+            },
+            {
+                "axis": "2028-3",
+                "ayis": "31"
+            },
+            {
+                "axis": "2028-4",
+                "ayis": "30"
+            },
+            {
+                "axis": "2028-5",
+                "ayis": "31"
+            },
+            {
+                "axis": "2028-6",
+                "ayis": "30"
+            },
+            {
+                "axis": "2028-7",
+                "ayis": "31"
+            },
+            {
+                "axis": "2028-8",
+                "ayis": "31"
+            }
+        ],
+        "xis2":  [
+            {
+                "year": "2023年",
+                "month": [
+                    "1月",
+                    "2月",
+                    "3月",
+                    "4月",
+                    "5月",
+                    "6月",
+                    "7月",
+                    "8月",
+                    "9月",
+                    "10月",
+                    "11月",
+                    "12月"
+                ]
+            },
+            {
+                "year": "2024年",
+                "month": [
+                    "1月",
+                    "2月",
+                    "3月",
+                    "4月",
+                    "5月",
+                    "6月",
+                    "7月",
+                    "8月",
+                    "9月",
+                    "10月",
+                    "11月",
+                    "12月"
+                ]
+            },
+            {
+                "year": "2025年",
+                "month": [
+                    "1月",
+                    "2月",
+                    "3月",
+                    "4月",
+                    "5月",
+                    "6月",
+                    "7月",
+                    "8月",
+                    "9月",
+                    "10月",
+                    "11月",
+                    "12月"
+                ]
+            },
+            {
+                "year": "2026年",
+                "month": [
+                    "1月",
+                    "2月",
+                    "3月",
+                    "4月",
+                    "5月",
+                    "6月",
+                    "7月",
+                    "8月",
+                    "9月",
+                    "10月",
+                    "11月",
+                    "12月"
+                ]
+            },
+            {
+                "year": "2027年",
+                "month": [
+                    "1月",
+                    "2月",
+                    "3月",
+                    "4月",
+                    "5月",
+                    "6月",
+                    "7月",
+                    "8月",
+                    "9月",
+                    "10月",
+                    "11月",
+                    "12月"
+                ]
+            },
+            {
+                "year": "2028年",
+                "month": [
+                    "1月",
+                    "2月",
+                    "3月",
+                    "4月",
+                    "5月",
+                    "6月",
+                    "7月",
+                    "8月"
+                ]
+            }
+        ],
+        "contents": [
+            {
+                "number": 1,
+                "stageName": "立项阶段",
+                "plans": [
+                    {
+                        "title": "sssss",
+                        "head": "fdsfcdv",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-07-18",
+                                "endDate": "2028-08-16",
+                                "days": 1857,
+                                "startDays": 14,
+                                "endDays": 16,
+                                "startMonth": "2023-7",
+                                "endMonth": "2028-8"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": "2023-08-08",
+                                "endDate": "2023-08-24",
+                                "days": 17,
+                                "startDays": 24,
+                                "endDays": 24,
+                                "startMonth": "2023-8",
+                                "endMonth": "2023-8"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "3464",
+                        "head": "564576587",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-08-24",
+                                "endDate": "2024-08-31",
+                                "days": 374,
+                                "startDays": 8,
+                                "endDays": 31,
+                                "startMonth": "2023-8",
+                                "endMonth": "2024-8"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": "2023-08-01",
+                                "endDate": "2024-08-31",
+                                "days": 397,
+                                "startDays": 31,
+                                "endDays": 31,
+                                "startMonth": "2023-8",
+                                "endMonth": "2024-8"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "安抚玩玩福娃福娃福娃福娃福娃福娃发我福娃",
+                        "head": "挖法付付付付付付付付付付付付付付付付付付",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-08-10",
+                                "endDate": "2023-08-24",
+                                "days": 15,
+                                "startDays": 22,
+                                "endDays": 24,
+                                "startMonth": "2023-8",
+                                "endMonth": "2023-8"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": "2023-07-31",
+                                "endDate": "2023-08-31",
+                                "days": 32,
+                                "startDays": 1,
+                                "endDays": 31,
+                                "startMonth": "2023-7",
+                                "endMonth": "2023-8"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "stageName": "工可阶段",
+                "plans": [
+                    {
+                        "title": "快测试了，要交付了",
+                        "head": "测试测试1",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-08-01",
+                                "endDate": "2023-08-25",
+                                "days": 25,
+                                "startDays": 31,
+                                "endDays": 25,
+                                "startMonth": "2023-8",
+                                "endMonth": "2023-8"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": null,
+                                "endDate": null,
+                                "days": null,
+                                "startDays": null,
+                                "endDays": null,
+                                "startMonth": null,
+                                "endMonth": null
+                            }
+                        ]
+                    },
+                    {
+                        "title": "快测试了，要交付了",
+                        "head": "测试测试",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-08-01",
+                                "endDate": "2023-08-25",
+                                "days": 25,
+                                "startDays": 31,
+                                "endDays": 25,
+                                "startMonth": "2023-8",
+                                "endMonth": "2023-8"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": null,
+                                "endDate": null,
+                                "days": null,
+                                "startDays": null,
+                                "endDays": null,
+                                "startMonth": null,
+                                "endMonth": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "stageName": "勘察设计招标阶段",
+                "plans": [
+                    {
+                        "title": "沟通过",
+                        "head": "测试",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-08-01",
+                                "endDate": "2023-08-25",
+                                "days": 25,
+                                "startDays": 31,
+                                "endDays": 25,
+                                "startMonth": "2023-8",
+                                "endMonth": "2023-8"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": null,
+                                "endDate": null,
+                                "days": null,
+                                "startDays": null,
+                                "endDays": null,
+                                "startMonth": null,
+                                "endMonth": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "stageName": "勘察设计阶段",
+                "plans": [
+                    {
+                        "title": "最后一天交付测试了，测试了而二位而微软犬",
+                        "head": "而对方人认为天文台让台湾台湾人热热去热认",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-01-01",
+                                "endDate": "2023-12-31",
+                                "days": 365,
+                                "startDays": 31,
+                                "endDays": 31,
+                                "startMonth": "2023-1",
+                                "endMonth": "2023-12"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": "2023-01-01",
+                                "endDate": "2023-12-31",
+                                "days": 365,
+                                "startDays": 31,
+                                "endDays": 31,
+                                "startMonth": "2023-1",
+                                "endMonth": "2023-12"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "stageName": "施工招标阶段",
+                "plans": [
+                    {
+                        "title": "4343534",
+                        "head": "453454",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-08-01",
+                                "endDate": "2023-08-02",
+                                "days": 2,
+                                "startDays": 31,
+                                "endDays": 2,
+                                "startMonth": "2023-8",
+                                "endMonth": "2023-8"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": null,
+                                "endDate": null,
+                                "days": null,
+                                "startDays": null,
+                                "endDays": null,
+                                "startMonth": null,
+                                "endMonth": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "stageName": "开工准备阶段",
+                "plans": [
+                    {
+                        "title": "3654567",
+                        "head": "他羊肉汤羊肉汤",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-08-01",
+                                "endDate": "2023-08-25",
+                                "days": 25,
+                                "startDays": 31,
+                                "endDays": 25,
+                                "startMonth": "2023-8",
+                                "endMonth": "2023-8"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": null,
+                                "endDate": null,
+                                "days": null,
+                                "startDays": null,
+                                "endDays": null,
+                                "startMonth": null,
+                                "endMonth": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "stageName": "施工阶段",
+                "plans": [
+                    {
+                        "title": "我特讨厌或多个",
+                        "head": "个人好好规划大纲",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-08-01",
+                                "endDate": "2026-08-05",
+                                "days": 1101,
+                                "startDays": 31,
+                                "endDays": 5,
+                                "startMonth": "2023-8",
+                                "endMonth": "2026-8"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": null,
+                                "endDate": null,
+                                "days": null,
+                                "startDays": null,
+                                "endDays": null,
+                                "startMonth": null,
+                                "endMonth": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "stageName": "试运营阶段",
+                "plans": [
+                    {
+                        "title": "43u-jgfgmdflb",
+                        "head": "不厚道呼吁天天有",
+                        "projectDataDetails": [
+                            {
+                                "notes": "计划",
+                                "startDate": "2023-08-01",
+                                "endDate": "2026-08-01",
+                                "days": 1097,
+                                "startDays": 31,
+                                "endDays": 1,
+                                "startMonth": "2023-8",
+                                "endMonth": "2026-8"
+                            },
+                            {
+                                "notes": "实际",
+                                "startDate": null,
+                                "endDate": null,
+                                "days": null,
+                                "startDays": null,
+                                "endDays": null,
+                                "startMonth": null,
+                                "endMonth": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

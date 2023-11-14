@@ -1,0 +1,117 @@
+import Vue from 'vue'
+import {
+    Alert,
+    Aside,
+    Breadcrumb,
+    BreadcrumbItem,
+    Button,
+    ButtonGroup,
+    Calendar,
+    Card,
+    Carousel,
+    CarouselItem,
+    Cascader,
+    Checkbox,
+    CheckboxGroup,
+    Col,
+    Container,
+    DatePicker,
+    Dialog,
+    Divider,
+    Empty,
+    Form,
+    FormItem,
+    Header,
+    Image,
+    Input,
+    InputNumber,
+    Loading,
+    Main,
+    Menu,
+    MenuItem,
+    MenuItemGroup,
+    Message,
+    MessageBox,
+    Option,
+    Pagination,
+    Popover,
+    Radio,
+    RadioGroup,
+    Row,
+    Select,
+    Slider,
+    Step,
+    Steps,
+    Submenu,
+    Switch,
+    Table,
+    TableColumn,
+    TabPane,
+    Tabs,
+    Tag,
+    Timeline,
+    TimelineItem,
+    TimePicker,
+    Tooltip,
+    Tree,
+    Upload
+} from 'element-ui'
+
+Vue.use(Popover)
+Vue.use(DatePicker)
+Vue.use(Empty)
+Vue.use(Button)
+Vue.use(Form)
+Vue.use(FormItem)
+Vue.use(Input)
+Vue.use(Container);
+Vue.use(Header);
+Vue.use(Aside);
+Vue.use(Main);
+Vue.use(Menu);
+Vue.use(Submenu);
+Vue.use(MenuItemGroup);
+Vue.use(MenuItem);
+Vue.use(Breadcrumb);
+Vue.use(BreadcrumbItem);
+Vue.use(Dialog);
+Vue.use(Card);
+Vue.use(Row);
+Vue.use(Col);
+Vue.use(Table);
+Vue.use(TableColumn);
+Vue.use(Switch);
+Vue.use(Tooltip);
+Vue.use(Pagination);
+Vue.use(Carousel);
+Vue.use(CarouselItem);
+Vue.use(Calendar);
+Vue.use(ButtonGroup);
+Vue.use(Divider);
+Vue.use(Tag);
+Vue.use(Tree);
+Vue.use(Select);
+Vue.use(Option);
+Vue.use(Cascader);
+Vue.use(Alert);
+Vue.use(Tabs);
+Vue.use(TabPane);
+Vue.use(Step);
+Vue.use(Steps);
+Vue.use(InputNumber);
+Vue.use(CheckboxGroup);
+Vue.use(Checkbox);
+Vue.use(Upload);
+Vue.use(Image);
+Vue.use(Timeline);
+Vue.use(TimelineItem);
+Vue.use(Slider);
+Vue.use(Loading);
+Vue.use(Radio);
+Vue.use(RadioGroup);
+Vue.use(TimePicker);
+Vue.prototype.$message = Message;
+Vue.prototype.$msgbox = MessageBox;
+Vue.prototype.$alert = MessageBox.alert;
+Vue.prototype.$confirm = MessageBox.confirm;
+
